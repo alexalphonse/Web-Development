@@ -6,3 +6,6 @@ Learning Web Development from Angela Yu.
 
 ## Day02
     Intermediate in HTML
+
+## Day03
+    Intro to CSS
