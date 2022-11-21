@@ -15,3 +15,6 @@ Learning Web Development from Angela Yu.
 
 ## Day05
     Learnt CSS styles
+
+## Day06
+    Intro to Bootstrap
