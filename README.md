@@ -9,3 +9,9 @@ Learning Web Development from Angela Yu.
 
 ## Day03
     Intro to CSS
+
+## Day04
+    Learnt Intermidiate CSS
+
+## Day05
+    Learnt CSS styles
