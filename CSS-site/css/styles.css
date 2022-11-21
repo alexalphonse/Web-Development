@@ -1,15 +1,25 @@
 body{
-    background-color: cornsilk;
+    background-color: ghostwhite;
     text-align: center;
     font-family: 'Roboto', sans-serif;
+    font-size: 1em;
 }
 
 h1{
+    color: #66bfbf;
     font-family: 'Indie Flower', cursive;
-    font-size: 50px;
+    font-size: 3em;
+    margin: 50px, auto, 0px;
 }
 h2{
+    color: #66bfbf;
     font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+}
+
+h3 {
+    color: #66bfbf;
+    font-size: 2em;
 }
 #profile {
     border-radius: 100%;
@@ -40,4 +50,24 @@ h2{
 
 .C2 {
     position: absolute;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+
+
+}
+.computer {
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin: 30px;
+}
+.chillies {
+    border-radius: 100%;
+    width: 25%;
+    float: right;
 }
