@@ -18,3 +18,6 @@ Learning Web Development from Angela Yu.
 
 ## Day06
     Intro to Bootstrap
+
+## Day07
+    Learnt Advance bootstrap
