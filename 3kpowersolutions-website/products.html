@@ -1,107 +1,192 @@
 <!DOCTYPE html>
-<html>
+  <html>
     <head>
         <meta charset="utf-8">
         <title>Products and  services</title>
+        <!-- Google Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
+
         <!-- CSS link -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="css/styles.css">
 
-        <!-- JS link -->
-        <script> src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"</script>
+        <!-- Font Awesome -->
+        <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+
+        <!-- Bootstrap Scripts -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     </head>
     <body>
-        <section>
-            <div>
-                <h2>Products and  services</h2>
+      <!-- Navigation -->
+      <section id="navbar">
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <img id="logo" class="navbar-brand" src="images/logo.jpg" alt="logo">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler01">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarToggler01">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="products.html">Products & Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="success.html">Our Success Stories</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="gallery.html">Gallery</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact</a>
+                    </li>
+                </ul>
             </div>
-        </section>
-        <section>
-            <h2>Service Offered</h2>
-            <div class="row">
-                <div>
-                    <ul>
-                        <li>AC Electric and magnetic field measurement under AC Transmission lines and Substations.</li>
-                        <li>DC Electric field and Ionic Current  measurement under DC Transmission lines and Substations.</li>
-                        <li>Consultancy work and RCA study on Renewable energy system (Wind and Solar system).</li>
-                        <li>RCA of Equipment and Systems up to 765kV.</li>
-                        <li>RCA of Solar system connected with HV cables.</li>
-                        <li>Diagnostic/Condition monitoring of substation and generating station Equipment.</li>
-                        <li>Power quality study on Non-linear load and Harmonic measurement/Analysis.</li>
-                        <li>Lesioning work for carrying out Type test of polymeric Insulators up to 765kV.</li>
-                        <img src="images/Group.jpg" alt="">
-                    </ul>
-                    <ul>
-                        <img src="images/Group-1.jpg" alt="">
-                        <li>Calculation of electric & magnetic field on double voltage double circuit lines using 3D Colum software.</li>
-                        <li>EFM calculation using 3D Colum software</li>
-                        <li>Pollution severity measurement at site.</li>
-                        <li>RTV, HVIC coating Insulators, Reactors & Bushings.</li>
-                        <li>Grounding system study.</li>
-                        <li>Services to Customized equipment like impulse voltage and current generators.</li>
-                        <li>Leakage current measurement of Lightning Arrester and its study.</li>
-                        <li>Failure analysis of HV and EHV equipment.</li>
-                    </ul>
-                </div>
-        </section>
-        <section class="white-section" id="pricing">
+        </nav>
+      </section>
+    
+      <section>
+        <div class="Heading">
+          <h2>Products and  services</h2>
+        </div>
+      </section>
 
-            <h2 class="section-heading">A Plan for Every Dog's Needs</h2>
-            <p>Simple and affordable price plans for your and your dog.</p>
-        
-            <div class="row">
-        
-              <div class="pricing-column col-lg-4 col-md-6">
-                <div class="card">
-                  <div class="card-header">
-                    <img src="" alt="">
-                  </div>
-                  <div class="card-body">
-                    <h2 class="price-text">Free</h2>
-                    <p>5 Matches Per Day</p>
-                    <p>10 Messages Per Day</p>
-                    <p>Unlimited App Usage</p>
-                    <button class="btn btn-lg btn-block btn-outline-dark" type="button">Sign Up</button>
-                  </div>
-                </div>
+      <!-- Services Offered -->
+      <section class="content-style">
+        <h1 class="service">Service Offered</h1>
+        <div class="row">
+          <div>
+            <img class="floater-r" src="images/Group.jpg" alt="">
+            <ul>
+              <li>AC Electric and magnetic field measurement under AC Transmission lines and Substations.</li>
+              <li>DC Electric field and Ionic Current  measurement under DC Transmission lines and Substations.</li>
+              <li>Consultancy work and RCA study on Renewable energy system (Wind and Solar system).</li>
+              <li>RCA of Equipment and Systems up to 765kV.</li>
+              <li>RCA of Solar system connected with HV cables.</li>
+              <li>Diagnostic/Condition monitoring of substation and generating station Equipment.</li>
+              <li>Power quality study on Non-linear load and Harmonic measurement/Analysis.</li>
+              <li>Lesioning work for carrying out Type test of polymeric Insulators up to 765kV.</li>
+            </ul>
+            <hr class="line-pad">
+            <img class="floater-l" src="images/Group-1.jpg" alt="">
+            <ul>
+              <li>Calculation of electric & magnetic field on double voltage double circuit lines using 3D Colum software.</li>
+              <li>EFM calculation using 3D Colum software</li>
+              <li>Pollution severity measurement at site.</li>
+              <li>RTV, HVIC coating Insulators, Reactors & Bushings.</li>
+              <li>Grounding system study.</li>
+              <li>Services to Customized equipment like impulse voltage and current generators.</li>
+              <li>Leakage current measurement of Lightning Arrester and its study.</li>
+              <li>Failure analysis of HV and EHV equipment.</li>
+            </ul>
+          </div>
+          <hr class="line-pad">
+        </div>
+      </section>
+      <section>
+        <h2 class="service">Portfolio of design & development of custom-built test equipment</h2>
+        <div class="row">
+          <div class="portfolio col-lg-2">
+            <div class="card">
+              <div class="card-header">
+                <img src="images/card01.png" alt="">
               </div>
-        
-              <div class="pricing-column col-lg-4 col-md-6">
-                <div class="card">
-                  <div class="card-header">
-                    <h3>Labrador</h3>
-                  </div>
-                  <div class="card-body">
-                    <h2 class="price-text">$49 / mo</h2>
-                    <p>Unlimited Matches</p>
-                    <p>Unlimited Messages</p>
-                    <p>Unlimited App Usage</p>
-                    <button class="btn btn-lg btn-block btn-dark" type="button">Sign Up</button>
-                  </div>
-                </div>
+              <div class="card-body">
+                <p>Test Setup for conducting steep front wave test on polymeric insulator with a steepness of ≥ 1000kV/µS and ≥ 2500kV/µS on porcelain Insulator</p>
               </div>
-        
-              <div class="pricing-column col-lg-4">
-                <div class="card">
-                  <div class="card-header">
-                    <h3>Mastiff</h3>
-                  </div>
-                  <div class="card-body">
-                    <h2 class="price-text">$99 / mo</h2>
-                    <p>Pirority Listing</p>
-                    <p>Unlimited Matches</p>
-                    <p>Unlimited Messages</p>
-                    <p>Unlimited App Usage</p>
-                    <button class="btn btn-lg btn-block btn-dark" type="button">Sign Up</button>
-        
-                  </div>
-                </div>
-              </div>
-        
-        
-        
             </div>
-        
-          </section>
+          </div>
+          <div class="portfolio col-lg-2 col-md-6">
+            <div class="card">
+              <div class="card-header">
+                <img src="images/card02.png" alt="">
+              </div>
+              <div class="card-body">
+                <p>Design and Development of HTLS test setup, for conducting tests on HTLS conductor at room and elevated temperature</p>
+              </div>
+            </div>
+          </div><div class="portfolio col-lg-2 col-md-6">
+            <div class="card">
+              <div class="card-header">
+                <img src="images/card03.png" alt="">
+              </div>
+              <div class="card-body">
+                <p>Impulse Voltage generator up to 1200kV and Impulse Current Generators up to 100 kA, 150kJ.</p>
+              </div>
+            </div>
+          </div><div class="portfolio col-lg-2 col-md-6">
+            <div class="card">
+              <div class="card-header">
+                <img src="images/card04.png" alt="">
+              </div>
+              <div class="card-body">
+                <p>Partial Discharge measurement setup up to 300kV, including PD free AC power frequency source and faraday cage</p>
+              </div>
+            </div>
+          </div><div class="portfolio col-lg-2 col-md-6">
+            <div class="card">
+              <div class="card-header">
+                <img src="images/card05.png" alt="">
+              </div>
+              <div class="card-body">
+                <p>Acceptance test facility for Distribution class Arrester of class1, up to 36kV.</p>
+              </div>
+            </div>
+          </div><div class="portfolio col-lg-2 col-md-6">
+            <div class="card">
+              <div class="card-header">
+                <img src="images/card06.png" alt="">
+              </div>
+              <div class="card-body">
+                <p>Different rating of customized AC/DC power supplies.</p>
+              </div>
+            </div>
+          </div><div class="portfolio col-lg-2 col-md-6">
+            <div class="card">
+              <div class="card-header">
+                <img src="images/card07.png" alt="">
+              </div>
+              <div class="card-body">
+                <p>Combination wave generator 12kV, 6kA for testing RCCB, Energy Meter etc.</p>
+              </div>
+            </div>
+          </div><div class="portfolio col-lg-2 col-md-6">
+            <div class="card">
+              <div class="card-header">
+                <img src="images/card08.png" alt="">
+              </div>
+              <div class="card-body">
+                <p>Current Source and current feeder pillar unit as per customer requirement</p>
+              </div>
+            </div>
+          </div><div class="portfolio col-lg-2 col-md-6">
+            <div class="card">
+              <div class="card-header">
+                <img src="images/card09.png" alt="">
+              </div>
+              <div class="card-body">
+                <p>LT Panel design and validation as per National and International standard.</p>
+              </div>
+            </div>
+          </div><div class="portfolio col-lg-2 col-md-6">
+            <div class="card">
+              <div class="card-header">
+                <img src="images/card10.png" alt="">
+              </div>
+              <div class="card-body">
+                <p>20kV, 50Joulse, Impulse Voltage Generator for testing low capacitance loads.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
     </body>
-</html>
+  </html>
