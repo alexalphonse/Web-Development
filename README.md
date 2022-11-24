@@ -24,3 +24,6 @@ Learning Web Development from Angela Yu.
 
 ## Day08
     Creating Website with what i Learnt
+
+## Day09
+    Beautifying the website
