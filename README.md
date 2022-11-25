@@ -27,3 +27,6 @@ Learning Web Development from Angela Yu.
 
 ## Day09
     Beautifying the website
+
+## Day10
+    Beautifying the website
