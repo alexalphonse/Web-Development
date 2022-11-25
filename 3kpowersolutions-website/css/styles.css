@@ -106,9 +106,14 @@
     padding: 5px;
 }
 
-.img-pad {
+.img-pad1 {
     padding: 5%;
-    width: 100%;
+    width: 600px;
+}
+
+.img-pad2 {
+    padding: 5%;
+    width: 450px;
 }
 
 .text-fix {
@@ -119,6 +124,21 @@
 .suc-row1 {
     padding: 7% 3%;
     font-weight: bold;
+}
+
+.suc-img {
+    width: 300px;
+    padding: 20px;
+}
+
+.suc-img1 {
+    width: 270px;
+    padding: 20px;
+}
+
+.suc-img2 {
+    width: 350px;
+    padding: 20px;
 }
 
 body {
