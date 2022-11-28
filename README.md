@@ -30,3 +30,9 @@ Learning Web Development from Angela Yu.
 
 ## Day10
     Beautifying the website
+
+## Day11
+    website finalizing
+
+## Day12
+    Finalizing the website
