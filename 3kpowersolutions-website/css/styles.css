@@ -207,10 +207,6 @@
     border-color: indianred;
 }
 
-.img-size:hover {
-    zoom: 1;
-}
-
 body {
     background-color: aliceblue;
     text-align: center;
