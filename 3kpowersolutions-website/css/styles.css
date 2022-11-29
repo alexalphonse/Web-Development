@@ -70,19 +70,20 @@
 }
 
 .content-style {
-    padding: 3% 10%;
+    padding: 1% 10%;
     font-weight: normal;
     line-height: 1.8;
 }
 
 .service {
-    padding: 3% 10%;
+    padding: 1% 10%;
     font-weight: bold;
     color: indianred;
 }
 
 .line-pad {
-    padding: 5% 0;
+    margin: 1% 0;
+    color: indianred;
 }
 
 .service-block {
@@ -114,22 +115,38 @@
 
 .img-pad1 {
     margin: 5%;
-    width: 600px;
+    width: 500px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
 }
 
 .img-pad2 {
-    padding: 5%;
-    width: 450px;
+    margin: 5%;
+    width: 400px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
 }
 
 .product-img {
-    width: 750px;
-    padding: 20px;
-    vertical-align:middle;
+    width: 650px;
+    margin: 20px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
 }
 
 .product-img01 {
-    width: 300px;
+    width: 600px;
+    margin: 20px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
 }
 
 .text-fix {
@@ -202,6 +219,10 @@
     border-width: 5px;
     border-style: solid;
     border-color: indianred;
+}
+
+.gallery-sec {
+    margin: 100px 3%;
 }
 
 body {
