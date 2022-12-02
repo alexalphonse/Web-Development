@@ -72,7 +72,7 @@
 .content-style {
     padding: 1% 10%;
     font-weight: normal;
-    line-height: 1.8;
+    line-height: 1.5;
 }
 
 .service {
@@ -132,7 +132,7 @@
 }
 
 .product-img {
-    width: 650px;
+    width: 450px;
     margin: 20px;
     border-radius: 10px;
     border-width: 5px;
@@ -141,7 +141,7 @@
 }
 
 .product-img01 {
-    width: 600px;
+    width: 300px;
     margin: 20px;
     border-radius: 10px;
     border-width: 5px;
@@ -164,7 +164,18 @@
 }
 
 .suc-img {
-    width: 650px;
+    width: 500px;
+    height: 300px;
+    margin: 20px;
+    border-radius: 30px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
+}
+
+.suc-img-1 {
+    width: 500px;
+    height: 300px;
     margin: 20px;
     border-radius: 30px;
     border-width: 5px;
@@ -173,7 +184,8 @@
 }
 
 .suc-img1 {
-    width: 325px;
+    width: 200px;
+    height: 300px;
     margin: 20px;
     border-radius: 30px;
     border-width: 5px;
@@ -182,7 +194,8 @@
 }
 
 .suc-img2 {
-    width: 425px;
+    width: 300px;
+    height: 300px;
     margin: 20px;
     border-radius: 30px;
     border-width: 5px;
@@ -199,37 +212,151 @@
     font-size: small;
 }
 
-.img-card {
-    width: 400px;
-    margin: 10px;
-}
 
-.img-card01 {
-    width: 200px;
-    margin: 10px;
-}
-
-.img-card02 {
-    width: 300px;
-    margin: 10px;
-}
-
-.img-size {
+.img-size1 {
+    width: 700px;
+    height: 300px;
+    margin: 20px;
     border-radius: 5px;
     border-width: 5px;
     border-style: solid;
     border-color: indianred;
 }
 
-.gallery-sec {
-    margin: 100px 3%;
+.img-size2 {
+    width: 350px;
+    height: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
+}
+
+.img-size3 {
+    width: 350px;
+    height: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
+}
+
+.img-size4 {
+    width: 700px;
+    height: 350px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
+}
+
+.img-size5 {
+    width: 700px;
+    height: 350px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
+}
+
+.img-size6 {
+    width: 900px;
+    height: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
+}
+
+.img-size7 {
+    width: 400px;
+    height: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
+}
+
+.img-size8 {
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
+}
+
+.img-size9 {
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
+}
+
+.img-size10 {
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
+}
+
+.img-size11 {
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
+}
+
+.img-size12 {
+    width: 250px;
+    height: 500px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
+}
+
+.img-size13 {
+    width: 250px;
+    height: 500px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
+}
+
+.img-size14 {
+    width:320px;
+    height: 500px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: indianred;
 }
 
 body {
     background-color: white;
     text-align: center;
     font-family: Montserrat;
-    padding: 0;
 }
 
 h1{
