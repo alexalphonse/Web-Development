@@ -10,20 +10,25 @@
 }
 
 #intro {
-    background-color: indianred;
+    background-color: #CF0A0A;
     color: white;
     padding: 70px 10% 30px;
 }
 
 #intro-btn {
     margin: 2% 0;
+    border-width: 3px;
+}
+
+#prd-btn {
+    border-width: 3px;
 }
 #services {
     margin: 100px;
 }
 
 #Our-Products {
-    background-color: indianred;
+    background-color: #CF0A0A;
     color: white;
     padding: 7% 15%;
 }
@@ -460,7 +465,11 @@ body {
 
 h1{
     font-weight: bold;
-    line-height: 1.5;
+    line-height: 0.5;
+}
+
+h5 {
+    line-height: 1.8;
 }
 
 ul {
