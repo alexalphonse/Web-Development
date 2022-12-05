@@ -69,7 +69,7 @@
 }
 
 .Heading {
-    background-color: indianred;
+    background-color: #CF0A0A;
     color: white;
     padding: 3% 15%;
 }
@@ -83,12 +83,12 @@
 .service {
     padding: 1% 10%;
     font-weight: bold;
-    color: indianred;
+    color: #CF0A0A;
 }
 
 .line-pad {
     margin: 1% 0;
-    color: indianred;
+    color: #CF0A0A;
 }
 
 .service-block {
@@ -96,7 +96,7 @@
     margin: 15px;
     border-width: 3px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
     border-radius: 25px;
 }
 
@@ -115,7 +115,7 @@
     border-radius: 10px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .img-pad1 {
@@ -124,7 +124,7 @@
     border-radius: 10px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .img-pad2 {
@@ -133,7 +133,7 @@
     border-radius: 10px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .product-img {
@@ -142,7 +142,7 @@
     border-radius: 10px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .product-img01 {
@@ -151,7 +151,7 @@
     border-radius: 10px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .text-fix {
@@ -175,7 +175,7 @@
     border-radius: 30px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .suc-img-1 {
@@ -185,7 +185,7 @@
     border-radius: 30px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .suc-img1 {
@@ -195,7 +195,7 @@
     border-radius: 30px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;;
+    border-color: #CF0A0A;;
 }
 
 .suc-img2 {
@@ -205,7 +205,7 @@
     border-radius: 30px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .contact {
@@ -225,7 +225,7 @@
     border-radius: 5px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .img-size2 {
@@ -235,7 +235,7 @@
     border-radius: 5px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .img-size3 {
@@ -245,7 +245,7 @@
     border-radius: 5px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .img-size4 {
@@ -255,7 +255,7 @@
     border-radius: 5px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .img-size5 {
@@ -265,7 +265,7 @@
     border-radius: 5px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .img-size6 {
@@ -275,7 +275,7 @@
     border-radius: 5px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .img-size7 {
@@ -285,7 +285,7 @@
     border-radius: 5px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .img-size8 {
@@ -295,7 +295,7 @@
     border-radius: 5px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .img-size9 {
@@ -305,7 +305,7 @@
     border-radius: 5px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .img-size10 {
@@ -315,7 +315,7 @@
     border-radius: 5px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .img-size11 {
@@ -325,7 +325,7 @@
     border-radius: 5px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .img-size12 {
@@ -335,7 +335,7 @@
     border-radius: 5px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .img-size13 {
@@ -345,7 +345,7 @@
     border-radius: 5px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
 .img-size14 {
@@ -355,7 +355,7 @@
     border-radius: 5px;
     border-width: 5px;
     border-style: solid;
-    border-color: indianred;
+    border-color: #CF0A0A;
 }
 
     /* Gallery */
