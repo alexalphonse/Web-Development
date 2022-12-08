@@ -31,6 +31,7 @@
     background-color: #CF0A0A;
     color: white;
     padding: 7% 15%;
+    margin: 0;
 }
 
 #Our-Products a {
@@ -78,6 +79,7 @@
     padding: 1% 10%;
     font-weight: normal;
     line-height: 1.5;
+    margin: 0;
 }
 
 .service {
@@ -186,6 +188,7 @@
 
 .suc-row1 {
     padding: 7% 1%;
+    margin: 0;
 }
 
 .suc-row1 p {
