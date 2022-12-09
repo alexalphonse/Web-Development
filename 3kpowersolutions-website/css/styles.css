@@ -406,6 +406,36 @@
     border-color: #CF0A0A;
 }
 
+.img-size15 {
+    width:320px;
+    height: 500px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #CF0A0A;
+}
+
+.img-size16 {
+    width:500px;
+    height: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #CF0A0A;
+}
+
+.img-size17 {
+    width:350px;
+    height: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #CF0A0A;
+}
+
     /* Gallery */
 
     .close {
