@@ -436,6 +436,26 @@
     border-color: #CF0A0A;
 }
 
+.img-size18 {
+    width:500px;
+    height: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #CF0A0A;
+}
+
+.img-size19 {
+    width:600px;
+    height: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #CF0A0A;
+}
+
     /* Gallery */
 
     .close {
