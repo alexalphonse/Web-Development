@@ -1,0 +1,15 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "this is the first server created by me which i am learning through angela yu",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Alex Alphonse",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
