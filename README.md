@@ -45,3 +45,6 @@ Learning Web Development from Angela Yu.
 
 ## Day15
     Learnt Express.js with Node.js
+
+## Day16
+    Learned git and github
